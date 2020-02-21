@@ -2,6 +2,9 @@
 generates weak passwords based on current date
 
 
+http://www.weakpasswords.net
+
+
 run with
 
 ```
